@@ -1,6 +1,6 @@
 Name:		texlive-libertinus
 Version:	61719
-Release:	1
+Release:	2
 Summary:	Wrapper to use the correct libertinus package according to the used TeX engine
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/libertinus
